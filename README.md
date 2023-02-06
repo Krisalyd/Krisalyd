@@ -10,4 +10,6 @@
 ## Objetos de trabalho e estudo
 
 
-[<img alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">](https://www.python.org)
+[<img alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">](https://www.python.org) [<img alt="postgre" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">](https://www.postgresql.org) [<img alt="airbyte" width="60px" src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/airbyte-1613152137-dKaX.png">](https://airbyte.com)
+
+
