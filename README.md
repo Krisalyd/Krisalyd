@@ -1,7 +1,7 @@
 ### Olá! :snake:
 
 - Sou um entusiasta de tudo relacionado a área de dados e correlatos.
-- Altualmente estou em busca de uma oportunidade de trabalho com Engenharia de dados ou outras vagas similares como analista.
+- Altualmente estou em busca de uma oportunidade de trabalho com Engenharia de dados.
 - Tenho experiência prévia na área de aproximadamente 2 anos (estágio e analista de sistemas.)
 - Atualmente morando em São Paulo - Brasil.
 
