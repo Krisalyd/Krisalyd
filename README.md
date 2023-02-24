@@ -2,7 +2,7 @@
 
 - Sou um entusiasta de tudo relacionado a área de dados e correlatos.
 - Atualmente estou em busca de uma oportunidade de trabalho com Engenharia de dados.
-- Tenho experiência prévia na área de aproximadamente 2 anos (estágio e analista de sistemas.)
+- Tenho experiência prévia na área de 2 anos (estágio e analista de sistemas.)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisalyd&layout=compact&langs_count=10)](https://github.com/Krisalyd/github-readme-stats)
