@@ -1,8 +1,8 @@
 ### Olá! :snake:
 
-- Sou um entusiasta de tudo relacionado a dados e correlatos.
-- Atualmente estou em busca de uma oportunidade de trabalho na área.
-- Tenho experiência prévia na área de dados de 2 anos (estágio e analista de desenvolvimento de sistemas.)
+ Sou um entusiasta de tudo relacionado a dados e correlatos.
+ 
+ Em constante processo de estudos, então sempre teremos um projeto novo por aqui.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisalyd&layout=compact&langs_count=10)](https://github.com/Krisalyd/github-readme-stats)
