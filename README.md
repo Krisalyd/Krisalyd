@@ -1,8 +1,7 @@
 ### Olá! :snake:
 
  Sou um entusiasta de tudo relacionado a dados e correlatos.
- 
- Em constante processo de estudos, então sempre teremos um projeto novo por aqui.
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisalyd&layout=compact&langs_count=10)](https://github.com/Krisalyd/github-readme-stats)
