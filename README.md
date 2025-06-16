@@ -2,7 +2,7 @@
 
  Sou um entusiasta de tudo relacionado a dados e correlatos.
 
-
+ Atualmente trabalhando no repositorio: tradingview-report
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisalyd&layout=compact&langs_count=10)](https://github.com/Krisalyd/github-readme-stats)
 
